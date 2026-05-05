@@ -1,5 +1,5 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
-# PONG VGA Game
+# IEEE PONG VGA Game
 
 ## Description
 This project implements a hardware-based **Pong game** for two players, designed to generate a standard **VGA signal (640x480 @ 60 Hz)**. The entire game logic, including collision detection, paddle movement, and video synchronization, is handled by dedicated digital logic without the use of a microcontroller or CPU.
