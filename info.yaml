@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "PONG IPORRE VGA"      # Project title
+  title:        "IEEE PONG IPORRE VGA"      # Project title
   author:       "RODRIGO MIGUEL IPORRE COCA"      # Your name
   discord:      "r.m.121"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "IT'S A PONG GAME WITH A SCORE COUNTER"      # One line description of what your project does
